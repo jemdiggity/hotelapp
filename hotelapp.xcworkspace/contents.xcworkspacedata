@@ -2,10 +2,20 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:lib"
+      name = "lib">
+      <FileRef
+         location = "group:collections.js">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:client"
       name = "client">
       <FileRef
          location = "group:body.html">
+      </FileRef>
+      <FileRef
+         location = "group:body.js">
       </FileRef>
       <FileRef
          location = "group:head.html">

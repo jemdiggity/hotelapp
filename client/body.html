@@ -6,9 +6,20 @@
           {{> loginButtons}}
         </section>
         <div class="list-todos">
-          <a class=""><span class="icon-plus"></span>New Stay</a>
+          <a class="js-new-stay"><span class="icon-plus"></span>New Stay</a>
         </div>
+        
+        {{#each stayList}}
+          {{> stay}}
+        {{/each}}
+        
       </div>
     </section>
   </div>
 </body>
+
+<template name="stay">
+  <li>{{name}}</li>
+</template>
+
+
