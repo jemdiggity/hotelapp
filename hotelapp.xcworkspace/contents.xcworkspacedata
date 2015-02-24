@@ -10,9 +10,6 @@
       <FileRef
          location = "group:head.html">
       </FileRef>
-      <FileRef
-         location = "group:style.css">
-      </FileRef>
       <Group
          location = "group:stylesheets"
          name = "stylesheets">
