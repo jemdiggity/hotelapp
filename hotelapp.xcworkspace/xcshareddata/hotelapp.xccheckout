@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2662CDF-93CD-426C-885A-7F7802628F37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hotelapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D5967FE037656C89E9E4C2197B0E7D1FE72D3D4</key>
+		<string>https://github.com/jemdiggity/hotelapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hotelapp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D5967FE037656C89E9E4C2197B0E7D1FE72D3D4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jemdiggity/hotelapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D5967FE037656C89E9E4C2197B0E7D1FE72D3D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D5967FE037656C89E9E4C2197B0E7D1FE72D3D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hotelapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

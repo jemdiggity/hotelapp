@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:client"
+      name = "client">
+      <FileRef
+         location = "group:body.html">
+      </FileRef>
+      <FileRef
+         location = "group:head.html">
+      </FileRef>
+      <FileRef
+         location = "group:style.css">
+      </FileRef>
+      <Group
+         location = "group:stylesheets"
+         name = "stylesheets">
+         <Group
+            location = "group:globals"
+            name = "globals">
+            <FileRef
+               location = "group:base.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:button.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:form.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:icon.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:layout.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:link.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:list-items.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:menu.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:message.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:nav.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:notification.import.less">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.less">
+         </FileRef>
+         <Group
+            location = "group:util"
+            name = "util">
+            <FileRef
+               location = "group:fontface.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:helpers.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:lesshat.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:reset.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:text.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:typography.import.less">
+            </FileRef>
+            <FileRef
+               location = "group:variables.import.less">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:templates"
+         name = "templates">
+         <FileRef
+            location = "group:app-body.html">
+         </FileRef>
+         <FileRef
+            location = "group:app-body.js">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:resources"
+      name = "resources">
+      <Group
+         location = "group:icons"
+         name = "icons">
+         <FileRef
+            location = "group:icon-29x29.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-29x29@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-36x36.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-40x40.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-40x40@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-48x48.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-50x50.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-50x50@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-57x57.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-57x57@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-60x60.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-60x60@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-72x72.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-72x72@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-76x76.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-76x76@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon-96x96.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:splash"
+         name = "splash">
+         <FileRef
+            location = "group:splash-1024x768.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-1024x768@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-1280x720.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-200x320.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-320x200.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-320x480.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-320x480@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-320x568@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-480x320.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-480x800.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-720x1280.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-768x1024.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-768x1024@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-800x480.png">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:public"
+      name = "public">
+      <FileRef
+         location = "group:apple-touch-icon-precomposed.png">
+      </FileRef>
+      <FileRef
+         location = "group:favicon.png">
+      </FileRef>
+      <Group
+         location = "group:font"
+         name = "font">
+         <FileRef
+            location = "group:OpenSans-Light-webfont.eot">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Light-webfont.svg">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Light-webfont.ttf">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Light-webfont.woff">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Regular-webfont.eot">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Regular-webfont.svg">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Regular-webfont.ttf">
+         </FileRef>
+         <FileRef
+            location = "group:OpenSans-Regular-webfont.woff">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon"
+         name = "icon">
+         <FileRef
+            location = "group:todos.eot">
+         </FileRef>
+         <FileRef
+            location = "group:todos.svg">
+         </FileRef>
+         <FileRef
+            location = "group:todos.ttf">
+         </FileRef>
+         <FileRef
+            location = "group:todos.woff">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:img"
+         name = "img">
+         <FileRef
+            location = "group:logo-todos.svg">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:server"
+      name = "server">
+      <FileRef
+         location = "group:bootstrap.js">
+      </FileRef>
+   </Group>
+</Workspace>
