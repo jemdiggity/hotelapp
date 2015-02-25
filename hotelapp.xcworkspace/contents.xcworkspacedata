@@ -92,12 +92,6 @@
       <Group
          location = "group:templates"
          name = "templates">
-         <FileRef
-            location = "group:app-body.html">
-         </FileRef>
-         <FileRef
-            location = "group:app-body.js">
-         </FileRef>
       </Group>
    </Group>
    <Group

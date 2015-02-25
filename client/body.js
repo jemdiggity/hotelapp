@@ -13,3 +13,10 @@ Template.body.events({
                 list._id = StayList.insert(list);
                 }
 });
+
+// counter starts at 0
+Session.setDefault('counter', 0);
+
+Accounts.ui.config({
+  passwordSignupFields: "USERNAME_ONLY"
+});
